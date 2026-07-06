@@ -1,114 +1,115 @@
-<h1 align="center">Hi there, I'm Islem 👋</h1>
+<div align="center">
 
-<h3 align="center">Software Engineering Student | AI & Full-Stack Developer</h3>
-<h4 align="center">Building intelligent systems & modern web applications</h4>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Islem%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;AI+%26+Full-Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+### 🚀 About Me
+
+```python
+class Islem:
+    def __init__(self):
+        self.role = "Software Engineering & AI Master's Student"
+        self.location = "Tunisia 🇹🇳"
+        self.focus = ["Machine Learning", "Computer Vision", "Full-Stack Dev"]
+        self.also_loves = "UI/UX & Visual Branding 🎨"
+        self.currently_learning = "Deep Learning & System Architecture"
+        self.open_to = "Internships, Alternance & Collaborations 🚀"
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something smart! ✨")
+```
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,nextjs,react,nodejs,laravel,tensorflow,opencv,bootstrap,postgres,mysql,mongodb,git,github,postman&theme=dark" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 🔥 Featured Projects
 
-- 🎓 Master’s student in **Intelligent Information Systems** at ISIG Kairouan, Tunisia  
-- 🤖 Focused on **Artificial Intelligence, Machine Learning & Computer Vision**  
-- 💻 Full-Stack Developer building scalable web applications  
-- 🎨 Passionate about UI/UX, branding & visual design  
-- 🌱 Continuously learning AI systems & modern software architecture  
-- 🚀 Open to internships, alternance & job opportunities  
+<table>
+<tr>
+<td width="50%">
 
----
+**🤖 AI Career Platform**
+AI-powered platform for CV analysis, ATS scoring, interview prep & job recommendations
+`Next.js` `Node.js` `PostgreSQL` `FastAPI`
 
-## 🛠️ Tech Stack
+</td>
+<td width="50%">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+**🏛️ AI Tourism Recognition**
+Deep learning system for monument recognition via image classification
+`Python` `TensorFlow` `OpenCV` `Laravel`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### ⚙️ Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+**🗳️ Blockchain Voting System**
+Secure decentralized voting ensuring transparency & immutability
+`Solidity` `React` `Node.js` `Ethereum`
 
----
+</td>
+<td width="50%">
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**🎨 SmartSave Brand Identity**
+Complete fintech brand identity & interactive case study site
+`HTML/CSS` `Figma` `Branding`
 
----
-
-### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 Featured Projects
-
-### 🤖 AI Career Platform
-AI-powered platform for CV analysis, ATS scoring, interview preparation & job recommendations  
-**Stack:** Next.js • Node.js • PostgreSQL • FastAPI
-
----
-
-### 🏛️ AI Tourism Recognition System
-Deep learning system for monument recognition using image classification  
-**Stack:** Python • TensorFlow • OpenCV • Laravel • Vue.js
-
----
-
-### 🗳️ Blockchain Voting System
-Secure decentralized voting system ensuring transparency & immutability  
-**Stack:** Solidity • React • Node.js • Ethereum tools
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=islemTroudi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=islemTroudi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islemTroudi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islemTroudi&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islemTroudi&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=islemTroudi&theme=tokyo-night&hide_border=true" width="90%" />
 </p>
 
 ---
 
-## 🌱 Currently Exploring
-
-- Artificial Intelligence & Deep Learning  
-- System Design & Scalable Architecture  
-- Cloud Computing & DevOps  
-- Advanced Full-Stack Development  
-
----
-
-## 🤝 Let's Connect
+### 🏆 Trophies
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=islemTroudi&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+### 🌱 Currently Exploring
+
+`Artificial Intelligence` • `Deep Learning` • `Cloud Computing` • `System Design` • `DevOps`
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=islemTroudi&color=6C63FF&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
