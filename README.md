@@ -78,8 +78,8 @@ Complete fintech brand identity & interactive case study site
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=islemTroudi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islemTroudi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=islemTroudi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=islemTroudi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
